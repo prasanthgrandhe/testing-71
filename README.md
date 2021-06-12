@@ -25,3 +25,5 @@ odered list
   1. chilli
   2. brinjal
   3. pineapple
+
+<img src="https://raw.githubusercontent.com/prasanthgrandhe/testing-71/main/pic.jpg" width=100 height=100>
